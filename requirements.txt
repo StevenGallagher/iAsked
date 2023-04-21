@@ -1,0 +1,6 @@
+pip
+SpeechRecognition
+pyttsx3
+pyaudio
+sounddevice
+pandas
